@@ -10,4 +10,4 @@ else
 fi
 
 
- wget -O bot.zip "$URL"
+ wget -O bot "$URL"
