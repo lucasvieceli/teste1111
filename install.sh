@@ -12,5 +12,5 @@ fi
 
 
  wget -O bot.zip "$URL"
- unzip bot.zip
+ unzip  -o  bot.zip
 rm bot.zip
